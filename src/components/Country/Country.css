@@ -1,0 +1,28 @@
+.country{
+    border: 2px solid purple;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px;
+    background-color:#797DFC10;
+}
+
+.visited{
+    background-color: #10B98120;
+    
+}
+
+.contents{
+text-align: left;
+padding-left: 18px;
+}
+
+.btn{
+    display: flex;
+    justify-items: left;
+    margin-left: 16px;
+}
+.text{
+    display: flex;
+    justify-items: left;
+    margin-left: 18px;  
+}
